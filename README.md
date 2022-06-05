@@ -19,6 +19,8 @@ The application will start by running `node index.js` in the command line.
   *Instructions and examples for use:*
   
   when you run node `node index.js` , just answer the questions prompted
+
+  You can see how to use it in the following link: [Video](https://drive.google.com/file/d/1gjsrmGY4-BGQ1JJsDJjGOHMD1qqLaHT3/view)
   
   
   ## License
