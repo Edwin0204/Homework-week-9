@@ -3,13 +3,16 @@ function generateMarkdown(userResponses) {
   let draftToC = `## Table of Contents`;
 
   if (userResponses.installation !== '') { draftToC += `
-  * [Installation](#installation)` };
+  * [Installation](##Installation)` };
 
   if (userResponses.usage !== '') { draftToC += `
-  * [Usage](#usage)` };
+  * [Usage](##Usage)` };
 
-  if (userResponses.contributing !== '') { draftToC += `
-  * [Contributing](#contributing)` };
+  if (userResponses.credits !== '') { draftToC += `
+  * [credits](##Credits)` };
+
+  if (userResponses.email !== '') { draftToC += `
+  * [questions](##Questions?)` };
 
   
   // Generate markdown
@@ -72,7 +75,7 @@ function generateMarkdown(userResponses) {
     
   `
   
-  ## Credits to
+  ## Credits
   
   *Special thanks for the following:*
   

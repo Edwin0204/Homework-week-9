@@ -1,8 +1,9 @@
-# Readme generator
+# Readme Generator
   * [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
+  * [Installation](##Installation)
+  * [Usage](##Usage)
+  * [credits](##Credits)
+  * [questions](##Questions?)
   
   ## Installation
   
@@ -16,11 +17,11 @@
   
   run node index.js
   
-  ## Credits to
+  ## Credits
   
   *Special thanks for the following:*
   
-  tec
+  Tec de Monterrey
   
   ## License
   
